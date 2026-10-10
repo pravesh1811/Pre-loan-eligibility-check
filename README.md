@@ -1,4 +1,5 @@
 # Pre-loan-eligibility-check
+cd /workspace/Pre-loan-eligibility-check
 git add .
-git commit -m "Build DhanBazaar loan preeligibility app"
+git commit -m "Add DhanBazaar app and dependency lockfile"
 git push origin main
