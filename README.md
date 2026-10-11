@@ -22,3 +22,8 @@ The three screens collect basic details, income and loan requirements, then show
 All Phase 1 rules are in `src/rules/policyEngine.ts`. Bureau scores are randomly simulated from 300 to 900 on each eligibility check and never fetched from a credit bureau. The maximum is rounded down to whole rupees. Tenure is in months, salary and existing EMIs are monthly, and amounts are in INR. Name accepts ASCII letters and spaces between words. Mobile and pincode require 10 and 6 digits respectively with a nonzero first digit.
 
 This estimate is illustrative, not an actual loan offer. The CI runs policy tests and builds the app. GitHub Pages deployment requires enabling GitHub Actions write access and Pages for the `gh-pages` branch in repository settings.
+# Pre-loan-eligibility-check
+cd /workspace/Pre-loan-eligibility-check
+git add .
+git commit -m "Add DhanBazaar application files"
+git push origin main
