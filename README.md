@@ -1,4 +1,4 @@
-# DhanBazaar
+# CredOLenVerse
 
 A browser-only loan preeligibility app built with React, Vite, Tailwind CSS and TypeScript. Built by : Pravesh Dhavale.
 
@@ -25,5 +25,5 @@ This estimate is illustrative, not an actual loan offer. The CI runs policy test
 # Pre-loan-eligibility-check
 cd /workspace/Pre-loan-eligibility-check
 git add .
-git commit -m "Add DhanBazaar application files"
+git commit -m "Add CredOLenVerse application files"
 git push origin main
